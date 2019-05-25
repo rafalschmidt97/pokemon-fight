@@ -1,0 +1,6 @@
+Initialized - 0/1
+Pokemon Level - 0/1
+Pokemon  Health - 0/1
+Potion - 0/1
+Brock - 0/1
+Misty - 0/1

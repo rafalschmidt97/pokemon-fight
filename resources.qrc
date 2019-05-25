@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>assets/misty.jpg</file>
+        <file>assets/character-front.jpg</file>
+        <file>assets/garry.jpg</file>
+        <file>assets/brock.jpg</file>
+        <file>assets/pikachu-front.jpg</file>
+        <file>assets/squirtle-front.jpg</file>
+        <file>assets/charmander-front.jpg</file>
+        <file>assets/bulbasaur-front.jpg</file>
+        <file>assets/bulbasaur-back.jpg</file>
+        <file>assets/squirtle-back.jpg</file>
+        <file>assets/charmander-back.jpg</file>
+        <file>assets/pikachu-back.jpg</file>
+        <file>assets/pokeball-empty.jpg</file>
+        <file>assets/pokeball-full.jpg</file>
+        <file>assets/character-back.jpg</file>
+        <file>assets/introduction.jpg</file>
+        <file>assets/project.jpg</file>
+        <file>assets/items.jpg</file>
+        <file>assets/fight.jpg</file>
+        <file>assets/opponent.jpg</file>
+        <file>assets/player.jpg</file>
+        <file>assets/action.jpg</file>
+        <file>assets/intro.jpg</file>
+        <file>assets/intro.gif</file>
+        <file>assets/sound.jpg</file>
+        <file>assets/garry-story.jpg</file>
+        <file>assets/heal-story.jpg</file>
+        <file>assets/misty-story.jpg</file>
+        <file>assets/brock-story.jpg</file>
+        <file>assets/story.jpg</file>
+        <file>assets/save.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>assets/song.mp3</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>assets/Pokemon_GB.ttf</file>
+    </qresource>
+</RCC>

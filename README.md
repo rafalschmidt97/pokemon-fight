@@ -1,4 +1,4 @@
-Reproduction of the fight in Pokemon game. Don't judge me of this crappy code. I had so much fun writing this. Created in 2018 just to learn C++ and QT a little bit more on my university.
+Reproduction of the fight in Pokemon game. Don't judge me of this crappy code. I had so much fun writing this. Created in 2017 just to learn C++ and QT a little bit more on my university.
 
 ## Screenshots
 
